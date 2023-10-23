@@ -1,2 +1,2 @@
 # holamundo
-Archivo hola mundo.
+Archivo que consiste en un Hola Mundo.
